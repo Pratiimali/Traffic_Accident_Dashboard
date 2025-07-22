@@ -14,6 +14,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 
+
+
 🔑 **Key KPIs Tracked**
 
 
@@ -22,6 +24,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 - Total Vehicles Involved
 - Total Serious Injuries
 - Average Vehicles per Accident
+
+
 
 
 
@@ -40,7 +44,12 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
   
 
 
+
+
 🚀 **How to View the Dashboard**
+
+
+
 
 
 1. Download and open in the respective tools (Excel, Power BI, Tableau).
@@ -49,7 +58,10 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 
+
+
 🖼️ **Dashboard Previews**
+
 
 
 📊 **Excel Dashboard**
@@ -82,5 +94,9 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 - **Portfolio:** [datascienceportfol.io/pratikshamali2512](https://www.datascienceportfol.io/pratikshamali2512)
 
 
+
+
+
 ## 📝 Description
+
 This project was developed as part of my data analytics portfolio to demonstrate **Excel dashboarding proficiency in transforming raw order data into meaningful, decision-ready insights**. The dashboard replicates a real-world operational analysis scenario where business teams can track KPIs, drill into specific trends, and take data-driven actions to improve delivery and marketing strategies.
