@@ -48,7 +48,7 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 
-![Excel Dashboard](./Traffic_Accident_Dasboard_Preview/excel_dashboard.JPG)
+![Excel Dashboard](./\Traffic_Accident_Dashboard_Preview/excel_dashboard.JPG)
 
 
 
