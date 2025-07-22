@@ -1,9 +1,13 @@
 🚦 **Traffic Accident Analysis Dashboard (Excel, Power BI, Tableau)**
+
+
 An interactive dashboard project that analyzes traffic accident patterns, severity, vehicle involvement, and temporal trends across districts, weekdays, and times of day. This dashboard offers key insights into accident hotspots, peak times, and severity correlations, helping stakeholders and traffic authorities take data-driven safety and operational decisions.
 
 
 
-🛠️ **Tools Used**
+🛠️ **Tools Used**\
+
+
 **Excel**: Data cleaning, KPI calculations, pivot charts, structured dashboard creation.
 **Power BI**: Interactive dashboards, slicers, KPI cards, drill-down analysis, DAX measures.
 **Tableau**: Clean, story-driven dashboards with advanced visuals like maps, donut charts, and interactive filtering.
@@ -11,6 +15,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 🔑 **Key KPIs Tracked**
+
+
 - Total Accidents
 - Total Victims
 - Total Vehicles Involved
@@ -20,6 +26,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 🔑 **Key Insights**
+
+
 - Identified peak accident times during morning and evening rush hours.
 
 - Analyzed weekday patterns to identify high-risk days.
@@ -33,6 +41,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 🚀 **How to View the Dashboard**
+
+
 1. Download and open in the respective tools (Excel, Power BI, Tableau).
 2. Explore filters, slicers, and interactive visuals.
 3. Review insights to understand traffic patterns and safety trends.
@@ -40,6 +50,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 🖼️ **Dashboard Previews**
+
+
 📊 **Excel Dashboard**
 
 
@@ -50,11 +62,13 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 📊 **Power BI Dashboard**
 
+
 📌 Includes interactive KPI cards, slicers, drill-down visuals for accidents, victims, and severity analysis.
 ![Power BI Dashboard](./Traffic_Accident_Dashboard_Preview/powerbi_dashboard.JPG)
 
 
 📊 **Tableau Dashboard**
+
 
 📌 Showcases map-based accident hotspots, donut charts for part-of-day analysis, and interactive trends for temporal accident patterns.
 ![Tableau Dashboard](./Traffic_Accident_Dashboard_Preview/tableau_dashboard.JPG)
@@ -62,6 +76,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 👩‍💻 **Author**
+
+
 **Name**: Pratiksha Mali
 
 **LinkedIn**: linkedin.com/in/pratiksha-mali-b42088221
@@ -74,5 +90,6 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 📝 **Description**
+
 
 This project was developed as part of my data analytics portfolio to demonstrate Excel, Power BI, and Tableau dashboarding proficiency in transforming raw traffic accident data into meaningful, decision-ready insights. The dashboard replicates a real-world traffic monitoring scenario where operational and safety teams can track key metrics, analyze severity patterns, and take targeted, data-driven actions to improve road safety and traffic management strategies.
