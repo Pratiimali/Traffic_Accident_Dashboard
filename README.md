@@ -53,9 +53,13 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 **👩‍💻 Author**
 **Name**: Pratiksha Mali
+
 **LinkedIn**: linkedin.com/in/pratiksha-mali-b42088221
+
 **Email**: pratiksha.mali2512@gmail.com
+
 **Portfolio**: datascienceportfol.io/pratikshamali2512
+
 
 **📝 Description**
 This project was developed as part of my data analytics portfolio to demonstrate Excel, Power BI, and Tableau dashboarding proficiency in transforming raw traffic accident data into meaningful, decision-ready insights. The dashboard replicates a real-world traffic monitoring scenario where operational and safety teams can track key metrics, analyze severity patterns, and take targeted, data-driven actions to improve road safety and traffic management strategies.
