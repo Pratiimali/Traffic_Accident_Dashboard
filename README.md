@@ -42,25 +42,24 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 ## 🖼️ Dashboard Previews
 
-&nbsp;
+
 
 ### 📊 Excel Dashboard
 
-&nbsp;
+
 
 ![Excel Dashboard](./Traffic_Accident_Dasboard_Preview/excel_dashboard.JPG)
 
-&nbsp;
+
 
 📌 Displays KPI cards, bar charts, trend analysis, and slicers for interactive filtering.
 
----
 
-&nbsp;
+
 
 ### 📊 Power BI Dashboard
 
-&nbsp;
+
 
 ![Power BI Dashboard](./Traffic_Accident_Dasboard_Preview/powerbi_dashboard.JPG)
 
