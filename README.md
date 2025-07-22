@@ -5,7 +5,7 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 
-🛠️ **Tools Used**\
+🛠️ **Tools Used**
 
 
 **Excel**: Data cleaning, KPI calculations, pivot charts, structured dashboard creation.
