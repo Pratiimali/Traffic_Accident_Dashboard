@@ -43,13 +43,13 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 **📊 Power BI Dashboard**
 
 📌 Includes interactive KPI cards, slicers, drill-down visuals for accidents, victims, and severity analysis.
-![Excel Dashboard](./Traffic_Accident_Dashboard_Preview/powerbi_dashboard.JPG)
+![Power BI Dashboard](./Traffic_Accident_Dashboard_Preview/powerbi_dashboard.JPG)
 
 
 **📊 Tableau Dashboard**
 
 📌 Showcases map-based accident hotspots, donut charts for part-of-day analysis, and interactive trends for temporal accident patterns.
-![Excel Dashboard](./Traffic_Accident_Dashboard_Preview/tableau_dashboard.JPG)
+![Tableau Dashboard](./Traffic_Accident_Dashboard_Preview/tableau_dashboard.JPG)
 
 **👩‍💻 Author**
 **Name**: Pratiksha Mali
