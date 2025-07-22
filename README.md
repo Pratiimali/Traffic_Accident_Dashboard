@@ -1,27 +1,18 @@
-🚦 **Traffic Accident Analysis Dashboard (Excel, Power BI, Tableau)**
-
+# 🚦 Traffic Accident Analysis Dashboard (Excel, Power BI, Tableau)
 
 An interactive dashboard project that analyzes traffic accident patterns, severity, vehicle involvement, and temporal trends across districts, weekdays, and times of day. This dashboard offers key insights into accident hotspots, peak times, and severity correlations, helping stakeholders and traffic authorities take data-driven safety and operational decisions.
 
+---
 
+## 🛠️ Tools Used
 
-🛠️ **Tools Used**
+**Excel:** Data cleaning, KPI calculations, pivot charts, structured dashboard creation.  
+**Power BI:** Interactive dashboards, slicers, KPI cards, drill-down analysis, DAX measures.  
+**Tableau:** Clean, story-driven dashboards with advanced visuals like maps, donut charts, and interactive filtering.
 
+---
 
-**Excel**: Data cleaning, KPI calculations, pivot charts, structured dashboard creation.
-
-
-**Power BI**: Interactive dashboards, slicers, KPI cards, drill-down analysis, DAX measures.
-
-
-**Tableau**: Clean, story-driven dashboards with advanced visuals like maps, donut charts, and interactive filtering.
-
-
-
-
-
-🔑 **Key KPIs Tracked**
-
+## 🔑 Key KPIs Tracked
 
 - Total Accidents
 - Total Victims
@@ -29,78 +20,79 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 - Total Serious Injuries
 - Average Vehicles per Accident
 
+---
 
+## 🔑 Key Insights
 
+- Identified **peak accident times** during morning and evening rush hours.
+- Analyzed **weekday patterns** to identify high-risk days.
+- Mapped **accident hotspots** across districts and top streets.
+- Visualized **victims vs vehicles involved** for severity analysis.
+- Filtered views using **interactive slicers** for district, weekday, month, and part of day.
 
+---
 
-🔑 **Key Insights**
+## 🚀 How to View the Dashboard
 
+- Download and open in the respective tools (Excel, Power BI, Tableau).
+- Explore filters, slicers, and interactive visuals.
+- Review insights to understand traffic patterns and safety trends.
 
-- Identified peak accident times during morning and evening rush hours.
+---
 
-- Analyzed weekday patterns to identify high-risk days.
+## 🖼️ Dashboard Previews
 
-- Mapped accident hotspots across districts and top streets.
+&nbsp;
 
-- Visualized victims vs vehicles involved for severity analysis.
+### 📊 Excel Dashboard
 
-- Filtered views using interactive slicers for district, weekday, month, and part of day.
-  
+&nbsp;
 
+![Excel Dashboard](./Traffic_Accident_Dasboard_Preview/excel_dashboard.JPG)
 
-
-
-🚀 **How to View the Dashboard**
-
-
-
-
-
-1. Download and open in the respective tools (Excel, Power BI, Tableau).
-2. Explore filters, slicers, and interactive visuals.
-3. Review insights to understand traffic patterns and safety trends.
-
-
-
-
-
-🖼️ **Dashboard Previews**
-
-
-
-📊 **Excel Dashboard**
-
+&nbsp;
 
 📌 Displays KPI cards, bar charts, trend analysis, and slicers for interactive filtering.
-![Excel Dashboard](./Traffic_Accident_Dashboard_Preview/excel_dashboard.JPG)
 
+---
 
+&nbsp;
 
-📊 **Power BI Dashboard**
+### 📊 Power BI Dashboard
 
+&nbsp;
+
+![Power BI Dashboard](./Traffic_Accident_Dasboard_Preview/powerbi_dashboard.JPG)
+
+&nbsp;
 
 📌 Includes interactive KPI cards, slicers, drill-down visuals for accidents, victims, and severity analysis.
-![Power BI Dashboard](./Traffic_Accident_Dashboard_Preview/powerbi_dashboard.JPG)
 
+---
 
-📊 **Tableau Dashboard**
+&nbsp;
 
+### 📊 Tableau Dashboard
+
+&nbsp;
+
+![Tableau Dashboard](./Traffic_Accident_Dasboard_Preview/tableau_dashboard.JPG)
+
+&nbsp;
 
 📌 Showcases map-based accident hotspots, donut charts for part-of-day analysis, and interactive trends for temporal accident patterns.
-![Tableau Dashboard](./Traffic_Accident_Dashboard_Preview/tableau_dashboard.JPG)
 
+---
 
+## 👩‍💻 Author
 
-👩‍💻 Author
-- **Name:** Pratiksha Mali  
-- **LinkedIn:** [linkedin.com/in/pratiksha-mali-b42088221](https://www.linkedin.com/in/pratiksha-mali-b42088221)  
-- **Email:** [pratiksha.mali2512@gmail.com](mailto:pratiksha.mali2512@gmail.com)
-- **Portfolio:** [datascienceportfol.io/pratikshamali2512](https://www.datascienceportfol.io/pratikshamali2512)
+**Name:** Pratiksha Mali  
+**LinkedIn:** [linkedin.com/in/pratiksha-mali-b42088221](https://www.linkedin.com/in/pratiksha-mali-b42088221)  
+**Email:** [pratiksha.mali2512@gmail.com](mailto:pratiksha.mali2512@gmail.com)  
+**Portfolio:** [datascienceportfol.io/pratikshamali2512](https://www.datascienceportfol.io/pratikshamali2512)
 
-
-
-
+---
 
 ## 📝 Description
 
-This project was developed as part of my data analytics portfolio to demonstrate **Excel dashboarding proficiency in transforming raw order data into meaningful, decision-ready insights**. The dashboard replicates a real-world operational analysis scenario where business teams can track KPIs, drill into specific trends, and take data-driven actions to improve delivery and marketing strategies.
+This project was developed as part of my data analytics portfolio to demonstrate **Excel, Power BI, and Tableau dashboarding proficiency** in transforming raw traffic accident data into meaningful, decision-ready insights. The dashboard replicates a real-world traffic monitoring scenario where operational and safety teams can track key metrics, analyze severity patterns, and take targeted, data-driven actions to improve road safety and traffic management strategies.
