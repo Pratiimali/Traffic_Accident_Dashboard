@@ -9,7 +9,11 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 
 
 **Excel**: Data cleaning, KPI calculations, pivot charts, structured dashboard creation.
+
+
 **Power BI**: Interactive dashboards, slicers, KPI cards, drill-down analysis, DAX measures.
+
+
 **Tableau**: Clean, story-driven dashboards with advanced visuals like maps, donut charts, and interactive filtering.
 
 
