@@ -67,6 +67,8 @@ An interactive dashboard project that analyzes traffic accident patterns, severi
 📌 Showcases map-based accident hotspots, donut charts for part-of-day analysis, and interactive trends for temporal accident patterns.
 
 
+---
+
 
 
 ## 👩‍💻 Author
